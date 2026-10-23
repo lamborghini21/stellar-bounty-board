@@ -83,6 +83,15 @@ Include the following in your report:
 3. Affected versions, components, or endpoints.
 4. Any suggested mitigations (optional but appreciated).
 
+**Expected first response:** A maintainer will acknowledge your report within 48 hours of
+receipt. This confirms that the report was received; it does not mean triage is complete.
+We will provide a triage status update within 7 days.
+
+**Coordinated disclosure:** We target public disclosure 90 days after receipt, allowing time to
+investigate, prepare a fix, and coordinate a release. We will agree with the reporter in writing
+before extending this window, and any extension will be limited to 30 additional days before
+re-evaluation. Critical or actively exploited issues may be disclosed earlier as described below.
+
 For detailed information on our Service Level Agreements, response times, and the handling of third-party dependency vulnerabilities, please review our [Security Disclosure Process](docs/issues/security-disclosure-process.md).
 
 We appreciate your help in keeping the Stellar ecosystem safe.
@@ -439,4 +448,3 @@ When contributing security fixes, enhancements, or non-sensitive tooling updates
 ---
 
 _Last updated: October 18, 2026 (Reconciled with Wave 4/5/6 backlog structure, Issue #1380)_
-
